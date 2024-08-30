@@ -1,0 +1,1 @@
+Como subí el tutorial hasta donde lo dejé para un descanso, la carpeta env se guardo con la descriçión del commit de cuando lo subí, eso no afecta pero para recordarme porque se guardó con esa descripción
