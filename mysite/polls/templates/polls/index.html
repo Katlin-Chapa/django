@@ -5,5 +5,7 @@
     {% endfor %}
     </ul>
 {% else %}
-    <p>No polls are available.</p>
+    <p>No hay encuestas disponibles.</p>
 {% endif %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'polls/style.css' %}">
