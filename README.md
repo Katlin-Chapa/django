@@ -1,1 +1,2 @@
-Como subí el tutorial hasta donde lo dejé para un descanso, la carpeta env se guardo con la descripión del commit de cuando lo subí, eso no afecta pero para recordarme porque se guardó con esa descripción
+RECORDATORIO:
+Esto es este tutorial https://docs.djangoproject.com/en/5.1/intro/tutorial01/ pero llegado hasta la parte 7
